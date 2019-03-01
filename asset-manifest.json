@@ -1,15 +1,14 @@
 {
-  "main.css": "/reactjs/static/css/main.f3972396.chunk.css",
-  "main.js": "/reactjs/static/js/main.1e9bcf22.chunk.js",
-  "main.js.map": "/reactjs/static/js/main.1e9bcf22.chunk.js.map",
+  "main.css": "/reactjs/static/css/main.2279537f.chunk.css",
+  "main.js": "/reactjs/static/js/main.37d87e69.chunk.js",
+  "main.js.map": "/reactjs/static/js/main.37d87e69.chunk.js.map",
   "runtime~main.js": "/reactjs/static/js/runtime~main.4afef299.js",
   "runtime~main.js.map": "/reactjs/static/js/runtime~main.4afef299.js.map",
   "static/js/2.646f3d2a.chunk.js": "/reactjs/static/js/2.646f3d2a.chunk.js",
   "static/js/2.646f3d2a.chunk.js.map": "/reactjs/static/js/2.646f3d2a.chunk.js.map",
   "index.html": "/reactjs/index.html",
-  "precache-manifest.a3d9bd2a34dd23e1479d98db0a00f63c.js": "/reactjs/precache-manifest.a3d9bd2a34dd23e1479d98db0a00f63c.js",
+  "precache-manifest.e70683120473a62b82ccc0a6da1f9c85.js": "/reactjs/precache-manifest.e70683120473a62b82ccc0a6da1f9c85.js",
   "service-worker.js": "/reactjs/service-worker.js",
-  "static/css/main.f3972396.chunk.css.map": "/reactjs/static/css/main.f3972396.chunk.css.map",
-  "static/media/avartar.jpg": "/reactjs/static/media/avartar.1902f191.jpg",
-  "static/media/logo.svg": "/reactjs/static/media/logo.5d5d9eef.svg"
+  "static/css/main.2279537f.chunk.css.map": "/reactjs/static/css/main.2279537f.chunk.css.map",
+  "static/media/shopstack-logo-email.png": "/reactjs/static/media/shopstack-logo-email.67660557.png"
 }
