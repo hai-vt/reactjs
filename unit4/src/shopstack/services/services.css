@@ -1,0 +1,25 @@
+.services {
+    text-align: center;
+    padding: 50px 0;
+    background: #f6f8f9;
+}
+
+.services h4 {
+    font-size: 24px;
+    line-height: 1.2;
+    margin:0 0 10px;
+}
+
+.services .block-list {
+    margin-top: 50px;
+}
+.services .block-list .col-content {
+    position: relative;
+    text-align: center;
+    background-color: rgba(255,255,255,0.81);
+    background-color: #fff\9;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    padding: 36px 20px 28px;
+    text-shadow: 0 0 0 0;
+}

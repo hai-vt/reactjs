@@ -1,8 +1,13 @@
 import React, { Component } from 'react';
-import Header from './components/header/header';
-import About from './components/about/about';
-import Footer from './components/footer/footer';
-import logo from './logo.svg';
+import Header from './shopstack/header/header';
+import Banner from './shopstack/banner/banner';
+import Contactus from './shopstack/contactus/contactus';
+import Services from './shopstack/services/services';
+import Aboutus from './shopstack/aboutus/aboutus';
+import Abouttean from './shopstack/aboutteam/aboutteam';
+import Ourwork from './shopstack/ourwork/ourwork';
+import Ourclients from './shopstack/ourclients/ourclients';
+import Footer from './shopstack/footer/footer';
 import './App.css';
 
 class App extends Component {
@@ -10,7 +15,13 @@ class App extends Component {
     return (
       <div className="App">
           <Header />
-          <About />
+          <Banner />
+          <Contactus />
+          <Services />
+          <Aboutus />
+          <Abouttean />
+          <Ourwork />
+          <Ourclients />
           <Footer />
       </div>
     );
