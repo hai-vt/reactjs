@@ -1,0 +1,35 @@
+/* global element css */
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: orange;
+}
+
+.home-content {
+    text-align: center;
+}
+
+/*About Me Page*/
+.aboutme {}
+
+.aboutme-top {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.aboutme-top .image {
+    width: 50%;
+    text-align: right;
+}
+
+.aboutme-top .info {
+    width: 50%;
+}
