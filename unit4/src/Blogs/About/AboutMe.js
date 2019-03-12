@@ -44,7 +44,7 @@ export default class AboutMe extends Component {
             Mobile
             </div>
             <div className="item right">
-            (+84) 1686555323
+            (+84) 386555323
         </div>
         </div>
         <div className="row">
@@ -52,7 +52,7 @@ export default class AboutMe extends Component {
             E-mail(s)
             </div>
             <div className="item right">
-            haivt@smartosc.com
+            haivt2509@gmail.com
         </div>
         </div>
         <div className="row">
@@ -154,7 +154,7 @@ export default class AboutMe extends Component {
             Project name
         </div>
         <div className="item right">
-            1. Support Aspire<br />
+            1. Support Aspire - .Net Project<br />
         2. Support Webqem - magento 2<br />
         3. Built project base magento 2 - Medline(<a target="_blank" href="http://test.medline.staging.webqem.net/">http://test.medline.staging.webqem.net/</a>)<br />
         4. Built project base magento 2 - Urbanfox(<a target="_blank" href="https://www.urbanfox.store/">https://www.urbanfox.store/</a>)<br />
