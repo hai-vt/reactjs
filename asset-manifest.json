@@ -1,14 +1,13 @@
 {
-  "main.css": "/reactjs/static/css/main.2279537f.chunk.css",
-  "main.js": "/reactjs/static/js/main.37d87e69.chunk.js",
-  "main.js.map": "/reactjs/static/js/main.37d87e69.chunk.js.map",
+  "main.css": "/reactjs/static/css/main.c5f0b84b.chunk.css",
+  "main.js": "/reactjs/static/js/main.956f4a65.chunk.js",
+  "main.js.map": "/reactjs/static/js/main.956f4a65.chunk.js.map",
   "runtime~main.js": "/reactjs/static/js/runtime~main.4afef299.js",
   "runtime~main.js.map": "/reactjs/static/js/runtime~main.4afef299.js.map",
-  "static/js/2.646f3d2a.chunk.js": "/reactjs/static/js/2.646f3d2a.chunk.js",
-  "static/js/2.646f3d2a.chunk.js.map": "/reactjs/static/js/2.646f3d2a.chunk.js.map",
+  "static/js/2.7ba9f4f0.chunk.js": "/reactjs/static/js/2.7ba9f4f0.chunk.js",
+  "static/js/2.7ba9f4f0.chunk.js.map": "/reactjs/static/js/2.7ba9f4f0.chunk.js.map",
   "index.html": "/reactjs/index.html",
-  "precache-manifest.e70683120473a62b82ccc0a6da1f9c85.js": "/reactjs/precache-manifest.e70683120473a62b82ccc0a6da1f9c85.js",
+  "precache-manifest.05879e02ab0ee2aaba94f1d013d1219b.js": "/reactjs/precache-manifest.05879e02ab0ee2aaba94f1d013d1219b.js",
   "service-worker.js": "/reactjs/service-worker.js",
-  "static/css/main.2279537f.chunk.css.map": "/reactjs/static/css/main.2279537f.chunk.css.map",
-  "static/media/shopstack-logo-email.png": "/reactjs/static/media/shopstack-logo-email.67660557.png"
+  "static/css/main.c5f0b84b.chunk.css.map": "/reactjs/static/css/main.c5f0b84b.chunk.css.map"
 }
